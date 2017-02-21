@@ -1,6 +1,6 @@
 {
-  "name": "whois",
-  "version": "2.3.6",
+  "name": "whois-custom",
+  "version": "1.0.0",
   "description": "A WHOIS client for NodeJS",
   "main": "index.js",
   "bin": {
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjr265/node-whois"
+    "url": "git://github.com/enixdark/node-whois-custom"
   },
   "keywords": [
-    "whois"
+    "whois-custom"
   ],
   "author": "Mahmud Ridwan <m@hjr265.me>",
   "license": "FreeBSD",
   "bugs": {
-    "url": "https://github.com/hjr265/node-whois/issues"
+    "url": "https://github.com/enixdark/node-whois-custom/issues"
   },
-  "homepage": "https://github.com/hjr265/node-whois",
+  "homepage": "https://github.com/enixdark/node-whois-custom",
   "devDependencies": {
     "coffee-script": "~1.6.3",
     "mocha": "~1.16.2"
